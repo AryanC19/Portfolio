@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website made using Flutter that showcases my information and projects.
+This is a portfolio website made entirely using Flutter and hosted on Firebase that showcases my information and projects.
 
 [Visit my portfolio](https://new-portfolio420.web.app)
 
